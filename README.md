@@ -10,6 +10,8 @@ https://raw.githubusercontent.com/NullTLD/main/refs/heads/main/null.ca.crt
 
 ### Chrome 
 
+![Chrome Certificte Manager](https://raw.githubusercontent.com/NullTLD/main/refs/heads/main/images/screenshots/certificate-manager.png)
+
 1. Go to  User Certificates `chrome://certificate-manager/localcerts/usercerts`
 2. In "Trusted Certificates" click "Import"
 3. Upload `null.ca.crt` file 
