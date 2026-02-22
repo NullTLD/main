@@ -4,7 +4,7 @@ You need to install the Certificate Authority file for the **.null** domain in y
 
 ## Download Certificate Authority file
 
-https://raw.githubusercontent.com/NullTLD/main/refs/heads/main/null.ca.crt
+[⬇ Download CA file](https://raw.githubusercontent.com/NullTLD/main/refs/heads/main/null.ca.crt?raw=true)
    
 ## Import the certificate to your browser
 
