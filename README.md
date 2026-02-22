@@ -37,3 +37,7 @@ port 53
 ### Verify the imported Certificate Authority and Network Settings by going to https://gov.null
 
 This should open up the website correctly.
+
+# Do you want your own .null domain?
+
+Just go to https://github.com/NullTLD/subdomains and create a new issue. 
